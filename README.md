@@ -9,3 +9,6 @@
 <img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Golang" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="left" alt="Cplusplus" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
+
