@@ -6,9 +6,11 @@
 <h2 align="left">The stack of technologies that I use for myself, work, freelancing:</h2>
 <img align="left" alt="Python" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" />
 <img align="left" alt="C#" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Flutter" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Golang" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="left" alt="Rust" width="50px" src="https://www.rust-lang.org/logos/rust-logo-128x128-blk.png" />
 <!-- <img align="left" alt="Cplusplus" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="C" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> -->
 
