@@ -8,7 +8,8 @@
 </a>
 <hr />
   
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
+Telegram: @whoamins
+Channel:  @helloSOC
   
 <table>
   <tr>
