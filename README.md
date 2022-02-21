@@ -8,12 +8,7 @@
 </a>
 <hr />
   
-Telegram: @whoamins
-Channel:  @helloSOC
+Telegram: [whoamins](https://t.me/whoamins)
+  <br />
+Channel:  [helloSOC](https://t.me/helloSOC)
   
-<table>
-  <tr>
-    <td>You're visitor</td>
-    <td><img src="https://profile-counter.glitch.me/whoamins/count.svg" alt="" /></td>
-  </tr>
-</table>
