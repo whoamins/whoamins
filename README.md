@@ -12,4 +12,4 @@ Telegram: [whoamins](https://t.me/whoamins)
   <br />
 Channel:  [helloSOC](https://t.me/helloSOC)
   <br />
-Habr: [nks1ckk](https://habr.com/ru/users/whoam1ns3/)
+Habr: [whoam1ns3](https://habr.com/ru/users/whoam1ns3/)
