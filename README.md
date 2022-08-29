@@ -26,12 +26,6 @@
 ![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)
 ---
 
-Telegram: [whoamins](https://t.me/whoamins)
-  <br />
-Channel:  [helloSOC](https://t.me/helloSOC)
-  <br />
-Habr: [whoam1ns3](https://habr.com/ru/users/whoam1ns3/)
-
 <br>
 <div align=center>
 	<a href="https://t.me/whoamins">
@@ -42,5 +36,8 @@ Habr: [whoam1ns3](https://habr.com/ru/users/whoam1ns3/)
 	</a>&nbsp;
 	<a href="mailto:whoam1ns3@gmail.com">
 		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/gmail.svg"/>
+	</a>&nbsp;
+	<a href="https://habr.com/ru/users/whoam1ns3/">
+		<img width=36 height=36 alt="Habr" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/habr.svg"/>
 	</a>&nbsp;
 </div>
