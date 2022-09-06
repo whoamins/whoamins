@@ -16,15 +16,7 @@
 ![ Mobile Development                ](https://img.shields.io/badge/Mobile%20Development-informational?style=for-the-badge&color=424242)
 ![ Windows System Programming                ](https://img.shields.io/badge/Windows%20System%20Programming-informational?style=for-the-badge&color=424242)
 
-
-## Technologies
-![ Code: Python         ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Python&logo=python)
-![ Code: C#        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=csharp&logo=csharp)
-![ Code: Flutter        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=Flutter&logo=flutter)
-![ Code: Kotlin        ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=kotlin/java&logo=kotlin)
-![ Code: C++  ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=cpp&logo=cplusplus)
-![ Code: JavaScript     ](https://img.shields.io/static/v1?style=for-the-badge&logoColor=white&labelColor=424242&color=bebebe&label=Code&message=JavaScript&logo=javascript)
----
+<hr />
 
 <br>
 <div align=center>
