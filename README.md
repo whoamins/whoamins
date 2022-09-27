@@ -3,7 +3,6 @@
 
 - 👶 19 y.o. kid
 - 👨‍💻 Love breaking stuff
-- 🌚 Captain of the [IDCZ](https://ctftime.org/team/144064)
 - 👋 Admin of the [helloSOC](https://t.me/helloSOC)
 
 ## Interests
