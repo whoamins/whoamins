@@ -22,9 +22,6 @@
 	<a href="https://t.me/whoamins">
 		<img width=36 height=36 alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/telegram.svg"/>
 	</a>&nbsp;
-	<a href="https://app.hackthebox.com/profile/1180152">
-		<img width=36 height=36 alt="HackTheBox" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/hackthebox.svg"/>
-	</a>&nbsp;
 	<a href="mailto:whoam1ns3@gmail.com">
 		<img width=36 height=36 alt="Mail" src="https://cdn.jsdelivr.net/npm/simple-icons@6.21.0/icons/gmail.svg"/>
 	</a>&nbsp;
