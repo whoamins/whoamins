@@ -5,4 +5,3 @@
   <img style="height: 222px; width: 300px" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />
 </p>
 
-<hr />
